@@ -21,9 +21,8 @@
 
 ### Notes
 
-Decided to change the whole color scheme of the app. 
-
-Describe any challenges encountered while building the app.
+Decided to change the whole color scheme of the app. The only challenges i had was submitting the project . I wasn't sure how to correctly upload my updated code
+to git hub. I accidentally uploaded part two separately.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
